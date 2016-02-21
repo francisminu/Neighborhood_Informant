@@ -1,0 +1,12 @@
+D:\Downloads\NeighborhoodInformant\DataTier\bin\Debug\DataTier.dll
+D:\Downloads\NeighborhoodInformant\DataTier\bin\Debug\DataTier.pdb
+D:\Downloads\NeighborhoodInformant\DataTier\obj\Debug\DataTier.dll
+D:\Downloads\NeighborhoodInformant\DataTier\obj\Debug\DataTier.pdb
+D:\Downloads\NeighborhoodInformant\DataTier\obj\Debug\DataTier.csprojResolveAssemblyReference.cache
+D:\Downloads\NeighborhoodInformant\DataTier\bin\Debug\DataTier.dll.config
+C:\Users\minuf\Documents\Visual Studio 2013\Projects\NeighborhoodInformant\DataTier\bin\Debug\DataTier.dll.config
+C:\Users\minuf\Documents\Visual Studio 2013\Projects\NeighborhoodInformant\DataTier\bin\Debug\DataTier.dll
+C:\Users\minuf\Documents\Visual Studio 2013\Projects\NeighborhoodInformant\DataTier\bin\Debug\DataTier.pdb
+C:\Users\minuf\Documents\Visual Studio 2013\Projects\NeighborhoodInformant\DataTier\obj\Debug\DataTier.csprojResolveAssemblyReference.cache
+C:\Users\minuf\Documents\Visual Studio 2013\Projects\NeighborhoodInformant\DataTier\obj\Debug\DataTier.dll
+C:\Users\minuf\Documents\Visual Studio 2013\Projects\NeighborhoodInformant\DataTier\obj\Debug\DataTier.pdb

@@ -1,0 +1,16 @@
+D:\Downloads\NeighborhoodInformant\LogicTier\bin\Debug\LogicTier.dll
+D:\Downloads\NeighborhoodInformant\LogicTier\bin\Debug\LogicTier.pdb
+D:\Downloads\NeighborhoodInformant\LogicTier\bin\Debug\DataTier.dll
+D:\Downloads\NeighborhoodInformant\LogicTier\bin\Debug\DataTier.pdb
+D:\Downloads\NeighborhoodInformant\LogicTier\obj\Debug\LogicTier.csprojResolveAssemblyReference.cache
+D:\Downloads\NeighborhoodInformant\LogicTier\obj\Debug\LogicTier.dll
+D:\Downloads\NeighborhoodInformant\LogicTier\obj\Debug\LogicTier.pdb
+D:\Downloads\NeighborhoodInformant\LogicTier\bin\Debug\GoogleMaps.LocationServices.dll
+C:\Users\minuf\Documents\Visual Studio 2013\Projects\NeighborhoodInformant\LogicTier\bin\Debug\LogicTier.dll
+C:\Users\minuf\Documents\Visual Studio 2013\Projects\NeighborhoodInformant\LogicTier\bin\Debug\LogicTier.pdb
+C:\Users\minuf\Documents\Visual Studio 2013\Projects\NeighborhoodInformant\LogicTier\bin\Debug\DataTier.dll
+C:\Users\minuf\Documents\Visual Studio 2013\Projects\NeighborhoodInformant\LogicTier\bin\Debug\GoogleMaps.LocationServices.dll
+C:\Users\minuf\Documents\Visual Studio 2013\Projects\NeighborhoodInformant\LogicTier\bin\Debug\DataTier.pdb
+C:\Users\minuf\Documents\Visual Studio 2013\Projects\NeighborhoodInformant\LogicTier\obj\Debug\LogicTier.csprojResolveAssemblyReference.cache
+C:\Users\minuf\Documents\Visual Studio 2013\Projects\NeighborhoodInformant\LogicTier\obj\Debug\LogicTier.dll
+C:\Users\minuf\Documents\Visual Studio 2013\Projects\NeighborhoodInformant\LogicTier\obj\Debug\LogicTier.pdb
